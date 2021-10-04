@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(-45deg, rgb(255, 121, 204), rgb(255, 191, 107))
+}
+* {
+    color: rgb(0, 0, 0);
+}
+ h1 {
+     text-align: center
+}
+h4 {
+    text-align: center
+}
+h3 {
+    text-align: center
+}

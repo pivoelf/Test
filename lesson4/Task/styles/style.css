@@ -1,0 +1,41 @@
+.main {
+    width: 1000px;
+    border: 3px;
+    border-bottom: rgb(255, 255, 255);
+}
+.main-right {
+    width: 70%;
+    box-shadow: 2px 1px 14px 2px;
+    text-align: left;
+}
+h1 {
+    color: cadetblue;
+    text-align: center;
+}
+.main-left {
+    width: 30%;
+    box-shadow: 2px 1px 14px 2px;
+    text-align: center;
+}
+td {
+    height: 100px;
+    width: 1000px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+table {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+.center {
+    text-align: center;
+}
+.btn-contact {
+    background-color: rgb(152, 175, 168);
+    color: whitesmoke;
+    padding: 15px;
+}

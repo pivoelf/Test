@@ -1,0 +1,17 @@
+table {
+    border: 4px dashed black ;
+    width:  1000px; 
+    height: 700px;
+    margin: auto;
+}
+body {
+    background: linear-gradient(60deg, rgb(185, 124, 172), rgb(141, 173, 209))
+}
+* {
+    text-align: center;
+}
+a:hover {
+    background: rgb(147, 81, 209);
+    color: cornsilk;
+    padding: 25px;
+}
